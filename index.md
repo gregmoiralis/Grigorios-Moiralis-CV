@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [N40 Dunkettle Gantry](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/N40 Actual.png?raw=true"/>
 
 ---
 [N40 Tramore to Valley Park Footbridge](/pdf/sample_presentation.pdf)
