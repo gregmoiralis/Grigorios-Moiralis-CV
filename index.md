@@ -4,15 +4,15 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[N40 Dunkettle Gantry](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[N40 Tramore to Valley Park Footbridge](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Cruagh Woods Boardwalk](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
